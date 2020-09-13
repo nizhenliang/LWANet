@@ -7,7 +7,7 @@ Paper address: https://arxiv.org/abs/1910.11109
 
 Accepted by ICRA2020
 
-![Image](https://github.com/nizhenliang/LWANet/blob/master/lwdnet.png)
+![Image](img/https://github.com/nizhenliang/LWANet/blob/master/lwdnet.png)
 ## Citation
 If you find DANet and DRANet useful in your research, please consider citing:
 
