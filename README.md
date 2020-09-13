@@ -1,5 +1,5 @@
 # Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments (ICRA2020)
-LWANet(Accepted by ICRA2020)
+LWANet (Accepted by ICRA2020)
 
 Zhen-Liang Ni, Gui-Bin Bian, Zeng-Guang Hou, Xiao-Hu Zhou, Xiao-Liang Xie, Zhen Li
 
